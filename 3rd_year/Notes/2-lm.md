@@ -7,6 +7,8 @@
 
 [G. Neubig. Neural machine translation and sequence-to-sequence models](https://arxiv.org/pdf/1703.01619.pdf) - разделы 3-4
 
+[A. Karpathy. Neural Networks Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) - лекция 2
+
 
 ## Neural language models
 [G. Neubig. Neural machine translation and sequence-to-sequence models](https://arxiv.org/pdf/1703.01619.pdf) - разделы 5-6
